@@ -39,6 +39,7 @@ button {
     margin-bottom: 3rem;
     font-size: 3rem;
     text-shadow: 2px 2px 2px #000;
+    word-spacing: 0.9rem;
 }
 
 button:hover {
